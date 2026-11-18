@@ -1,4 +1,4 @@
-# Day 05 – Joins, Subqueries and `$lookup` (SQL Server + MongoDB)
+# Day 07 – Joins, Subqueries and `$lookup` (SQL Server + MongoDB)
 
 Three business case studies solved twice: once in **SQL Server (T-SQL)** and once in **MongoDB (mongosh)**.
 Every script creates its own database, loads sample data and then runs the queries, so each file can be run on its own.
