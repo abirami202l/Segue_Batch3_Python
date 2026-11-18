@@ -6,7 +6,7 @@ Every script creates its own database, loads sample data and then runs the queri
 ## Folder structure
 
 ```
-Day_05_Normalisation_and_Data_Joins/
+Day_07_Normalisation_and_Data_Joins/
 ├── README.md
 ├── SQL_Server/
 │   ├── Set1_Logistics_Shipment_Analysis.sql
